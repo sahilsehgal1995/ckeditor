@@ -2,7 +2,7 @@
   "name": "ckeditor",
   "version": "4.6.2",
   "description": "custom package for ckeditor to be used in Eazespot.com",
-  "repository": "https://github.com/sahilsehgal1995/ckeditor.git",
+  "repository": "https://github.com/sahilsehgal1995/ckeditor",
   "license": "MIT",
   "main": "ckeditor.js"
 }
